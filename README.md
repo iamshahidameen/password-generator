@@ -8,6 +8,7 @@
 
 Using Math.Random and document.execCommand('copy') to copy the password from the field.
 
+Project Demo: [https://strong-password-generator-by-shahid.netlify.app/](https://strong-password-generator-by-shahid.netlify.app/)
 
 ## Hi, I'm Shahid! 👋
 
@@ -44,7 +45,6 @@ I’m a perfectionist to the smallest pixel and I always take care of responsive
 
 ## Credits
 
-- [Brad Traversy](https://github.com/bradtraversy)
 - [50 Projects 50 Days](https://50projects50days.com)
 
 ## Questions?
